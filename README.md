@@ -2,7 +2,7 @@
 
 Este projeto é uma API desenvolvida em **.NET** com **Entity Framework Core**, **JWT para autenticação** e **SQLite/SQL Server** como banco de dados.
 
-## 📌 Requisitos
+## ✅ Requisitos
 Antes de rodar o projeto, certifique-se de ter os seguintes itens instalados:
 
 - [.NET SDK 7.0+](https://dotnet.microsoft.com/en-us/download)
@@ -10,11 +10,11 @@ Antes de rodar o projeto, certifique-se de ter os seguintes itens instalados:
 - [Postman](https://www.postman.com/) (opcional, para testar os endpoints)
 - [Git](https://git-scm.com/)
 
-## 🚀 Configuração do Ambiente
+## ✅ Configuração do Ambiente
 
-### 1️⃣ Clonar o repositório
+### ■ Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/GuiaMoteisApi.git
+git clone https://github.com/rmoraes-oliveira/GuiaMoteisApi.git
 cd GuiaMoteisApi
 ```
 
